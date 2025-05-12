@@ -4,8 +4,8 @@
 This is a mini project developed for the **Generative AI (GenAI)** course.
 
 ### 👩‍🎓 Student Details
-- **Name:** Diya Raj  
-- **Reg No.:** 22BCE10186  
+- **Name:** Shreya Dutta
+- **Reg No.:** 22BCG10107 
 - **Course:** Generative AI (GenAI)
 
 ---
